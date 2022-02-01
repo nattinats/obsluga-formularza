@@ -10,4 +10,4 @@ const submitForm = (event) => {
 
 let form = document.getElementById('form');
 
-form.addEventListener('sumbit', submitForm);
+form.addEventListener('submit', submitForm);
